@@ -1,0 +1,30 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.xpm": "c",
+        "stdint.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "iterator": "c",
+        "string": "c",
+        "vector": "c",
+        "timer.h": "c",
+        "macros.h": "c",
+        "func_aux.h": "c",
+        "kbc.h": "c",
+        "xiosbase": "c",
+        "lcf.h": "c",
+        "generalmacros.h": "c",
+        "instructionsview.h": "c",
+        "background.h": "c",
+        "mainmenucontroller.h": "c",
+        "mainmenuview.h": "c",
+        "gameoverview.h": "c",
+        "sprite.h": "c",
+        "selectormine.h": "c",
+        "mouseview.h": "c",
+        "mousemodel.h": "c",
+        "state.h": "c",
+        "gamecontroller.h": "c"
+    }
+}
